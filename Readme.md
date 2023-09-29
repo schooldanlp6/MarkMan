@@ -6,4 +6,4 @@
 - Changelogs will be seen in the wiki in the src repo or here with only the latest version: release and beta/alpha accordingly
 
 # v.0 
-like nothing except for two player base?
+like nothing except for two player base? and multiplayer support like someday
