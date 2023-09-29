@@ -7,3 +7,12 @@
 
 # v.0 
 like nothing except for two player base? and multiplayer support like someday
+
+basic mp controls added cam focused only on p1. p2 should be able to tp in the future if p2 doesnt see himself
+
+ctrls are:
+wasd and space for p1
+
+left right up down and shift for p2
+
+not that this is for a qwertz keyboard
