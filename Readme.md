@@ -18,7 +18,6 @@ ctrls are:
 # v.0.0.1
 - added textures
 - added game menu
-- download link soon
 
 - to add:
 - - Game Saves
