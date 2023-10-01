@@ -8,11 +8,20 @@
 # v.0 
 like nothing except for two player base? and multiplayer support like someday
 
-basic mp controls added cam focused only on p1. p2 should be able to tp in the future if p2 doesnt see himself
+basic mp controls added cam focused only on p1.
 
 ctrls are:
-wasd and space for p1
+- wasd and space for p1
+- left right up down and shift for p2
+- not that this is for a qwertz keyboard
 
-left right up down and shift for p2
+# v.0.0.1
+- added textures
+- added game menu
+- download link soon
 
-not that this is for a qwertz keyboard
+- to add:
+- - Game Saves
+  - tp or 2nd camera
+  - multiplayer and server support
+  - the story itslef? ig
