@@ -19,6 +19,8 @@ ctrls are:
 - added textures
 - added game menu
 
+# v.0.0.1 hotifx-1
+- minor improvments
 - to add:
 - - Game Saves
   - tp or 2nd camera
